@@ -1,0 +1,23 @@
+Flappy Bird Notes:
+
+
+Menus ( Start Screen )
+
+
+Application.quit Quit Button
+
+
+Freeze Screen before click ( From Main Menu )
+
+
+Scoring
+
+
+Pipe Shrinking from Scoring ( 20pt -> Second Prefab )
+
+
+High Score ?
+
+
+Sprite Rotation ?
+
